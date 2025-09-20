@@ -44,6 +44,16 @@ python3 basicsr/train.py --opt Options/WTNet_RLE.yml
 ```
 python3 Enhancement/test_from_dataset.py --opt Options/WTNet_CEC.yml --weights pretrained_weights/xxxx.pth --dataset CEC
 ```
+# Checkpoints
+Please see Releases.
+
+[CEC](https://github.com/charonf/WTNet/releases/download/checkpoints/CEC.pth)
+
+[Endo4IE](https://github.com/charonf/WTNet/releases/download/checkpoints/Endo4IE.pth)
+
+[KC](https://github.com/charonf/WTNet/releases/download/checkpoints/KC.pth)
+
+[RLE](https://github.com/charonf/WTNet/releases/download/checkpoints/RLE.pth)
 
 # Citations
 ```
